@@ -1,6 +1,6 @@
 # Ahmed Sekka
 
-AI Architect | LLM Systems | AI Agents | RAG
+Tech Lead / Senior Software Engineer | Software Architecture | AI Systems
 
 ---
 
