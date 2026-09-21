@@ -1,6 +1,6 @@
 ### Hi, I'm Ahmed 👋
 
-**Senior Java & python & AI Engineer** building governed, production-grade agentic systems on the JVM — Spring AI, multi-agent orchestration, and LLM security.
+**Senior Tech Lead & Software Architect** building governed, production-grade agentic systems on the JVM — Spring AI, multi-agent orchestration, and LLM security.
 
 🧩 Creator of **AgentFlow4J** — an open-source runtime for governed, stateful multi-agent LLM workflows on Spring.
 🔐 LLM security & agentic systems · CVE-2026-41713 · CVE-2026-41712
