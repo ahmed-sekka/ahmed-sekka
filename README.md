@@ -17,6 +17,10 @@
 #### 🛠️ Stack
 `Java` · `Spring Boot` · `Spring AI` · `Python` · `Multi-agent orchestration` · `LLM security`
 
+#### 🎓 Certifications
+- AWS Certified Generative AI Developer – Professional
+- SailPoint Identity Security
+
 #### 🔗 Links
 - 📚 [AgentFlow4J docs](https://datallmhub.github.io/agentflow4j)
 
