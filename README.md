@@ -1,4 +1,4 @@
-### Hi, I'm Ahmed 👋
+### Hi, I'm Ahmed 
 
 **Senior Tech Lead & Software Architect** building governed, production-grade agentic systems on the JVM — Spring AI, multi-agent orchestration, and LLM security.
 
